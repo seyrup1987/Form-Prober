@@ -1,0 +1,9 @@
+{
+    "client_id": "REDDIT APP-CLIENT-ID",
+    "client_secret": "REDDIT APP-CLIENT-SECRET",
+    "user_agent": "APP NAME",
+    "username": "REDDIT USERNAME HERE",
+    "password": "REDDIT PASSWORD HERE",
+    "github_token": "GITHUB TOKEN HERE",
+    "openAIAPIKey": "OPEN-AI API KEY HERE"
+}
